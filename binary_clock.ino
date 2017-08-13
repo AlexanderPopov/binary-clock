@@ -1,5 +1,4 @@
 #include <Wire.h>
-#include "TM1637.h"
 #include "LedControlMS.h"
 
 // Кнопки настроек
